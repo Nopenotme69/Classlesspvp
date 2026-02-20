@@ -18,10 +18,10 @@
         "Size":  4826734
     },
     {
-        "Name":  "Patch-M.mpq",
-        "Path":  "Data/Patch-M.mpq",
-        "Hash":  "c4937abd1730b39c9ecdd6a2271021b3",
-        "Size":  220164
+        "Name":  "patch-M.MPQ",
+        "Path":  "Data/patch-M.MPQ",
+        "Hash":  "7af87343fbfa639c5ea3b5824db7f91b",
+        "Size":  203235
     },
     {
         "Name":  "patch-Y.MPQ",
@@ -36,10 +36,10 @@
         "Size":  855466
     },
     {
-        "Name":  "patch-enUS-4.mpq",
-        "Path":  "Data/enUS/patch-enUS-4.mpq",
-        "Hash":  "937f5a84c75e3cb06f71ed6f20dd34bd",
-        "Size":  14999216
+        "Name":  "patch-enUS-4.MPQ",
+        "Path":  "Data/enUS/patch-enUS-4.MPQ",
+        "Hash":  "691a69eec4740756ecfc9914369327fe",
+        "Size":  4854672
     },
     {
         "Name":  "AIO.lua",
