@@ -6,18 +6,6 @@
         "Size":  7706264
     },
     {
-        "Name":  "patch-Y.MPQ",
-        "Path":  "Data/patch-Y.MPQ",
-        "Hash":  "542f4654c1c06028310b787e40a19781",
-        "Size":  11076196
-    },
-    {
-        "Name":  "patch-Z.mpq",
-        "Path":  "Data/patch-Z.mpq",
-        "Hash":  "cf63aaedf3bae973a5d53c28eaa39c23",
-        "Size":  1021143
-    },
-    {
         "Name":  "Patch-A.MPQ",
         "Path":  "Data/Patch-A.MPQ",
         "Hash":  "864c5d27e11d4f366df8f9a6e42ecb42",
@@ -32,8 +20,20 @@
     {
         "Name":  "Patch-M.mpq",
         "Path":  "Data/Patch-M.mpq",
-        "Hash":  "209be1a5c6fd0e2012de38ae95e625f9",
+        "Hash":  "c4937abd1730b39c9ecdd6a2271021b3",
         "Size":  220164
+    },
+    {
+        "Name":  "patch-Y.MPQ",
+        "Path":  "Data/patch-Y.MPQ",
+        "Hash":  "014ed66131a40374bba587ebdbddf40f",
+        "Size":  33809071
+    },
+    {
+        "Name":  "patch-Z.MPQ",
+        "Path":  "Data/patch-Z.MPQ",
+        "Hash":  "4986982092a4bf8d2c84f374e95fb4f5",
+        "Size":  855466
     },
     {
         "Name":  "patch-enUS-4.mpq",
@@ -118,5 +118,17 @@
         "Path":  "Interface/Addons/AIO_Client/lualzw-zeros/README.md",
         "Hash":  "50b32187ca9c6c21671fb27d824e73a3",
         "Size":  2874
+    },
+    {
+        "Name":  "ClasslessSpellbookTabs.lua",
+        "Path":  "Interface/Addons/ClasslessSpellbookTabs/ClasslessSpellbookTabs.lua",
+        "Hash":  "96f6029da928c566a08f5877d9b32f8b",
+        "Size":  6426
+    },
+    {
+        "Name":  "ClasslessSpellbookTabs.toc",
+        "Path":  "Interface/Addons/ClasslessSpellbookTabs/ClasslessSpellbookTabs.toc",
+        "Hash":  "d08efaefd793f2cd134a87162191cc9f",
+        "Size":  225
     }
 ]

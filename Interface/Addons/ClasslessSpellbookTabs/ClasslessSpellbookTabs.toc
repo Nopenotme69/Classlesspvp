@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Classless Spellbook Tabs
+## Notes: Extends the Spellbook to show more than 8 skill lines in multiple columns.
+## Author: ChromieCraft Assistant
+## Version: 1.1
+
+ClasslessSpellbookTabs.lua
